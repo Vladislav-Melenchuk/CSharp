@@ -1,10 +1,12 @@
-﻿using System;
+﻿
+using HW_class;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HW_6
+namespace HW_class
 {
     public class Group
     {
