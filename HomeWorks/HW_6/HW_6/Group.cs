@@ -66,7 +66,7 @@ namespace HW_6
             }
         }
 
-        public void ExpelLowestPerformingStudent()
+        public void LowestStudent()
         {
             if (Students.Count > 0)
             {
