@@ -1,0 +1,14 @@
+D:\Course\C#\HW\HW_8\bin\Debug\net8.0\HW_8.exe
+D:\Course\C#\HW\HW_8\bin\Debug\net8.0\HW_8.deps.json
+D:\Course\C#\HW\HW_8\bin\Debug\net8.0\HW_8.runtimeconfig.json
+D:\Course\C#\HW\HW_8\bin\Debug\net8.0\HW_8.dll
+D:\Course\C#\HW\HW_8\bin\Debug\net8.0\HW_8.pdb
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\HW_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\HW_8.AssemblyInfoInputs.cache
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\HW_8.AssemblyInfo.cs
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\HW_8.csproj.CoreCompileInputs.cache
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\HW_8.dll
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\refint\HW_8.dll
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\HW_8.pdb
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\HW_8.genruntimeconfig.cache
+D:\Course\C#\HW\HW_8\obj\Debug\net8.0\ref\HW_8.dll
