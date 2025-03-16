@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Course\\C#\\HW\\HW_interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{396C5581-96B2-4CBE-B4BE-FD4051605AB5}|HW_interface.csproj|d:\\course\\c#\\hw\\hw_interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C5581-96B2-4CBE-B4BE-FD4051605AB5}|HW_interface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C5581-96B2-4CBE-B4BE-FD4051605AB5}|HW_interface.csproj|d:\\course\\c#\\hw\\hw_interface\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C5581-96B2-4CBE-B4BE-FD4051605AB5}|HW_interface.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{396C5581-96B2-4CBE-B4BE-FD4051605AB5}|HW_interface.csproj|d:\\course\\c#\\hw\\hw_interface\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{396C5581-96B2-4CBE-B4BE-FD4051605AB5}|HW_interface.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Course\\C#\\HW\\HW_interface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Course\\C#\\HW\\HW_interface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:28:43.981Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\Course\\C#\\HW\\HW_interface\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "D:\\Course\\C#\\HW\\HW_interface\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAUwI0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:32:31.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Course\\C#\\HW\\HW_interface\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Course\\C#\\HW\\HW_interface\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:28:21.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

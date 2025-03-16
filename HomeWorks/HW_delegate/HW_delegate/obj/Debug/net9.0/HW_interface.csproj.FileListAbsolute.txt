@@ -1,0 +1,14 @@
+D:\Course\C#\HW\HW_interface\bin\Debug\net9.0\HW_interface.exe
+D:\Course\C#\HW\HW_interface\bin\Debug\net9.0\HW_interface.deps.json
+D:\Course\C#\HW\HW_interface\bin\Debug\net9.0\HW_interface.runtimeconfig.json
+D:\Course\C#\HW\HW_interface\bin\Debug\net9.0\HW_interface.dll
+D:\Course\C#\HW\HW_interface\bin\Debug\net9.0\HW_interface.pdb
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\HW_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\HW_interface.AssemblyInfoInputs.cache
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\HW_interface.AssemblyInfo.cs
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\HW_interface.csproj.CoreCompileInputs.cache
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\HW_interface.dll
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\refint\HW_interface.dll
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\HW_interface.pdb
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\HW_interface.genruntimeconfig.cache
+D:\Course\C#\HW\HW_interface\obj\Debug\net9.0\ref\HW_interface.dll
